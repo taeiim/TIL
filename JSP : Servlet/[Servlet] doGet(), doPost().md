@@ -18,7 +18,7 @@ public class first_Ex extends HttpServlet{
 
 
 
-## doGet() , doPost()
+## doGet() , doPost() 
 
 Get방식과 Post 방식은 HTTP프로토콜을 이용해서 서버에 무언가를 전달할 때 사용하는 방식이다.
 

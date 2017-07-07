@@ -21,7 +21,7 @@
 #### request 내장 객체의 클라이언트 정보메소드
 
 ---
-
+ 
 - getContextPath() : 프로젝트 path명을 반환
 
   ```
