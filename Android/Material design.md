@@ -123,9 +123,9 @@ Hint text, Error text 표시 지원
 
 Dependencies 에 disign을 추가한다.
 
-```xml
+```
 dependencies {
-    compile 'com.android.support:design:22.2.0'
+    compile 'com.android.support:design:26.+'
 }
 ```
 
