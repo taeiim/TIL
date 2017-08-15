@@ -1,0 +1,22 @@
+# 20170814
+
+## ScrollView
+
+스크롤뷰 안에는 여러개의 레이아웃이 들어갈 수 없다.
+
+여러개의 레이아웃을 스크롤뷰로 감싸고 싶을 때는 리니어 레이아웃으로 여러개의 레이아웃을 묶는다.
+
+```Xml
+<ScrollView>
+  <LinearLayout>
+    <RelativeLayout></RelativeLayout>
+    <LinearLayout></LinearLayout>
+    <View></View>
+  </LinearLayout>
+</ScrollView>
+```
+
+이런식으로
+
+
+
