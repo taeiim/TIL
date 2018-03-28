@@ -1,4 +1,4 @@
-# About Image
+# About Image (Matrix,Exif,Cursor,URI..)
 
 ## Matrix
 
@@ -50,16 +50,22 @@ ExifInterface 를 이용해서 정보를 가져올 수 있다.
 ExifInterface exif = null;
 try{
     exif = new ExifInterface(imagePath);
-}catch (IOException e){
+}catch (IOException e){   //예외처리 꼭 해줘야함 
     e.printStackTrace();
 }
 ```
 
+##### orientation 얻기
 
+```java
+int orientation = exif.getAttributeInt(ExifInterface.TAG_ORIENTATION, ExifInterface.ORIENTATION_UNDEFINED);
+```
 
 
 
 ## URI
+
+
 
 
 
