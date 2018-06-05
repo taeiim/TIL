@@ -1,0 +1,11 @@
+/Users/parktaeim/C#/StreamWriterEx/StreamWriterEx/bin/Debug/netcoreapp2.0/StreamWriterEx.deps.json
+/Users/parktaeim/C#/StreamWriterEx/StreamWriterEx/bin/Debug/netcoreapp2.0/StreamWriterEx.runtimeconfig.json
+/Users/parktaeim/C#/StreamWriterEx/StreamWriterEx/bin/Debug/netcoreapp2.0/StreamWriterEx.runtimeconfig.dev.json
+/Users/parktaeim/C#/StreamWriterEx/StreamWriterEx/bin/Debug/netcoreapp2.0/StreamWriterEx.dll
+/Users/parktaeim/C#/StreamWriterEx/StreamWriterEx/bin/Debug/netcoreapp2.0/StreamWriterEx.pdb
+/Users/parktaeim/C#/StreamWriterEx/StreamWriterEx/obj/Debug/netcoreapp2.0/StreamWriterEx.csprojResolveAssemblyReference.cache
+/Users/parktaeim/C#/StreamWriterEx/StreamWriterEx/obj/Debug/netcoreapp2.0/StreamWriterEx.csproj.CoreCompileInputs.cache
+/Users/parktaeim/C#/StreamWriterEx/StreamWriterEx/obj/Debug/netcoreapp2.0/StreamWriterEx.AssemblyInfoInputs.cache
+/Users/parktaeim/C#/StreamWriterEx/StreamWriterEx/obj/Debug/netcoreapp2.0/StreamWriterEx.AssemblyInfo.cs
+/Users/parktaeim/C#/StreamWriterEx/StreamWriterEx/obj/Debug/netcoreapp2.0/StreamWriterEx.dll
+/Users/parktaeim/C#/StreamWriterEx/StreamWriterEx/obj/Debug/netcoreapp2.0/StreamWriterEx.pdb

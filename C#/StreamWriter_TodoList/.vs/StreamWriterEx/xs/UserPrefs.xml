@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9B8128A0-F3E1-44E4-A6D9-EC0166FED332}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StreamWriterEx/ToDoList.cs">
+    <Files>
+      <File FileName="StreamWriterEx/Program.cs" Line="20" Column="16" />
+      <File FileName="StreamWriterEx/ToDoList.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StreamWriterEx" expanded="True">
+            <Node name="StreamWriterEx" expanded="True">
+              <Node name="ToDoList.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StreamWriterEx PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
