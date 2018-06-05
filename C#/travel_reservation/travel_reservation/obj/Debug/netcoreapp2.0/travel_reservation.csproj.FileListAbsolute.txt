@@ -1,0 +1,11 @@
+/Users/parktaeim/C#/travel_reservation/travel_reservation/bin/Debug/netcoreapp2.0/travel_reservation.deps.json
+/Users/parktaeim/C#/travel_reservation/travel_reservation/bin/Debug/netcoreapp2.0/travel_reservation.runtimeconfig.json
+/Users/parktaeim/C#/travel_reservation/travel_reservation/bin/Debug/netcoreapp2.0/travel_reservation.runtimeconfig.dev.json
+/Users/parktaeim/C#/travel_reservation/travel_reservation/bin/Debug/netcoreapp2.0/travel_reservation.dll
+/Users/parktaeim/C#/travel_reservation/travel_reservation/bin/Debug/netcoreapp2.0/travel_reservation.pdb
+/Users/parktaeim/C#/travel_reservation/travel_reservation/obj/Debug/netcoreapp2.0/travel_reservation.csprojResolveAssemblyReference.cache
+/Users/parktaeim/C#/travel_reservation/travel_reservation/obj/Debug/netcoreapp2.0/travel_reservation.csproj.CoreCompileInputs.cache
+/Users/parktaeim/C#/travel_reservation/travel_reservation/obj/Debug/netcoreapp2.0/travel_reservation.AssemblyInfoInputs.cache
+/Users/parktaeim/C#/travel_reservation/travel_reservation/obj/Debug/netcoreapp2.0/travel_reservation.AssemblyInfo.cs
+/Users/parktaeim/C#/travel_reservation/travel_reservation/obj/Debug/netcoreapp2.0/travel_reservation.dll
+/Users/parktaeim/C#/travel_reservation/travel_reservation/obj/Debug/netcoreapp2.0/travel_reservation.pdb
